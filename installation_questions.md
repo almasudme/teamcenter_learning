@@ -2,7 +2,7 @@
  - Resource tier
  - Enterprise tier
  - Web tier
- **Routing tier**
+ - **Routing tier**
 
 
 On which tier would you expect to find the Volume?
