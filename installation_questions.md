@@ -1,8 +1,7 @@
 ### Which of the following is not one of the Teamcenter 4-tiers of an install?
-
- Resource tier
- Enterprise tier
- Web tier
+ - Resource tier
+ - Enterprise tier
+ - Web tier
  **Routing tier**
 
 
